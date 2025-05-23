@@ -12,7 +12,7 @@
 - Infrastructure Tools: Kubernetes, Terraform
 - Software Testing Tools: PlayWright, Appium, Jenkins
 ## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/jonathan-cooper-778133269)
+- [LinkedIn](https://www.linkedin.com/in/jonathan-sch-cooper)
 - Email: jsc3xvq at virginia.edu
 
 
