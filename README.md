@@ -10,7 +10,7 @@
 ## 🌱 I’m currently learning:
 - Languages: Golang
 - Infrastructure Tools: Kubernetes, Terraform
-- Software Testing Tools: PlayWright, Appium, Jenkins
+- Software Testing Tools: Appium, k6, Cypress
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/jonathan-sch-cooper)
 - Email: jsc3xvq at virginia.edu
