@@ -3,7 +3,7 @@
 - Majored in Computer Science with a concentration in Cybersecurity
 - Interested in opportunities in Software Engineering, Quality Assurance, and DevOps
 - Hoping to get more involved in contributing to open source projects
-- Language: Python, SQL, TypeScript, C, C++, JavaScript, Java, C#, HTML, CSS, Dart, Kotlin, PowerShell, and Bash
+- Language: Python, Go, SQL, TypeScript, C, C++, JavaScript, Java, C#, HTML, CSS, Dart, Kotlin, PowerShell, and Bash
 - Frameworks: React, Node, Express, Flutter, Jetpack Compose, Pandas, NumPy, and JavaFX
 - Tools and Platforms: MySQL, Microsoft SQL Server, Selenium, AWS, GCP, and Docker
 
