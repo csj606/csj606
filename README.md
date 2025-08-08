@@ -8,7 +8,7 @@
 - Tools and Platforms: MySQL, Microsoft SQL Server, Selenium, AWS, Firebase, and Docker
 
 ## 🌱 I’m currently learning:
-- Kubernetes, Ansible, Grafana/Prometheus, Django, Locust
+- Kubernetes, Ansible, Grafana/Prometheus
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/jonathan-sch-cooper)
 - Email: jsc3xvq at virginia.edu
