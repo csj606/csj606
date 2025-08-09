@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jonathan Cooper
 - Recent Graduate from the University of Virginia
 - Majored in Computer Science with a concentration in Cybersecurity
-- Interested in opportunities in Software Engineering, DevOps, and Quality Assurance
+- Interested in opportunities in Software Engineering and DevOps
 - Hoping to get more involved in contributing to open source projects
 - Language: Python, Go, SQL, TypeScript, C, C++, JavaScript, Java, C#, HTML, CSS, Dart, Kotlin, PowerShell, and Bash
 - Frameworks: React, Node, Express, Flutter, Django
