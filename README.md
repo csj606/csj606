@@ -4,7 +4,7 @@
 - Interested in opportunities in Software Engineering, DevOps, Systems, and Cloud Engineering
 - Language: Python, Go, SQL, TypeScript, C, C++, JavaScript, PowerShell, and Bash
 - Frameworks: React, Node, Express, Django
-- Tools and Platforms: AWS (EC2, Lambda, EBS, DynamoDB, S3, VPC, EventBridge), MySQL, Microsoft SQL Server, Selenium, Firebase, and Docker
+- Tools and Platforms: AWS (API Gateway, EC2, Lambda, EBS, DynamoDB, S3, VPC, EventBridge), MySQL, Microsoft SQL Server, Selenium, Firebase, and Docker
 
 ## 🌱 I’m currently learning:
 - Azure, Kubernetes, Grafana/Prometheus, Flask
