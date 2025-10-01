@@ -7,7 +7,7 @@
 - Tools and Platforms: AWS (API Gateway, EC2, Lambda, EBS, DynamoDB, S3, VPC, EventBridge), MySQL, Microsoft SQL Server, Selenium, Firebase, and Docker
 
 ## 🌱 I’m currently learning:
-- Azure, Kubernetes, Grafana/Prometheus, Flask
+- Azure, Kubernetes, Svelte, Flask, FastAPI
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/jonathan-sch-cooper)
 - Email: jsc3xvq at virginia.edu
