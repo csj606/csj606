@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jonathan Cooper
 - Recent Graduate from the University of Virginia
-- Current SWE at NISC
+- Currently a SWE at NISC
 - Majored in Computer Science with a concentration in Cybersecurity
 - Language: Python, Go, SQL, TypeScript, C, C++, JavaScript, PowerShell, and Bash
 - Frameworks: React, Node, Express, Django
